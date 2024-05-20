@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jodit-editor/static/css/main.ff02f4b5.css",
+    "main.js": "/jodit-editor/static/js/main.a0799ebf.js",
+    "static/js/453.cdc4c3c1.chunk.js": "/jodit-editor/static/js/453.cdc4c3c1.chunk.js",
+    "index.html": "/jodit-editor/index.html",
+    "main.ff02f4b5.css.map": "/jodit-editor/static/css/main.ff02f4b5.css.map",
+    "main.a0799ebf.js.map": "/jodit-editor/static/js/main.a0799ebf.js.map",
+    "453.cdc4c3c1.chunk.js.map": "/jodit-editor/static/js/453.cdc4c3c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.a0799ebf.js"
+  ]
+}
